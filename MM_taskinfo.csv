@@ -1,0 +1,14 @@
+MM_01,Duration in s,MM_02,Duration in s,MM_05,Duration in s,MM_08,Duration in s,MM_10,Duration in s,MM_11,Duration in s,MM_13,Duration in s,MM_14,Duration in s,MM_15,Duration in s,MM_16,Duration in s,MM_17,Duration in s,MM_18,Duration in s,MM_19,Duration in s,MM_20,Duration in s,MM_23,Duration in s,MM_24,Duration in s
+Baseline,256,Baseline,343,Baseline,582,Baseline,330,Baseline,319,Baseline,659,Baseline,671,Baseline,398,Baseline,208,Baseline,562,Baseline,410,Baseline,388,Baseline,392,Baseline,215,Baseline,288,Baseline,313
+Raw Voice,80,Raw Voice,163,Raw Voice,187,Raw Voice,102,Raw Voice,65,Raw Voice,148,Raw Voice,74,Raw Voice,62,Raw Voice,96,Raw Voice,151,Raw Voice,140,Raw Voice,74,Raw Voice,179,Raw Voice,62,Raw Voice,80,Raw Voice,115
+Bubbles,106,Delay,188,Whisper,85,Delay,163,Bubbles,74,Delay,90,Bubble,63,Retune,102,Piano,110,Pop,145,Pitch-Shift,119,Reverb,81,Delay,97,Piano,56,Retune,61,Bubbles,112
+Pop,108,Whisper,103,Reverb,114,DJ,94,Retune,96,Whisper,63,Delay,68,Reverb,73,Bubbles,65,Piano,113,Whisper,93,Bubbles,86,Bubbles,108,DJ,66,Pop,98,Pitch-Shift,76
+Delay,148,Pitch-Shift,113,Delay,284,Whisper,110,Harmony,57,Pop,69,Harmony,57,Delay,80,Reverb,66,Harmony,353,Reverb,123,Harmony,101,Pitch-Shift,65,Whisper,68,Bubbles,155,Retune,109
+Retune,96,Bubbles,90,Pop,116,Pitch-Shift,198,DJ,83,Pitch-Shift,47,Piano,61,Bubbles,88,DJ,74,Delay,168,Delay,127,Retune,94,Harmony,85,Bubbles,72,Piano,87,Pop,126
+Reverb,65,Harmony,97,Retune,168,Bubbles,131,Pop,75,Bubbles,59,Retune,65,Piano,60,Pop,55,Retune,150,Bubble,122,DJ,111,Whisper,123,Delay,69,Harmony,87,Whisper,72
+Pitch-shift,112,Pop,90,Harmony,229,Harmony,114,Reverb,88,Retune,94,Pitch-Shift,78,Pop,48,Pitch-Shift,69,Whisper,309,Piano,140,Piano,54,Reverb,81,Retune,73,Reverb,112,Piano,88
+Piano,69,DJ,87,Bubbles,161,Piano,99,Piano,92,Piano,78,Whisper,61,Whisper,68,Retune,82,Pitch-Shift,281,Pop,105,Whisper,63,Retune,122,Pop,57,Pitch-Shift,104,Reverb,111
+DJ,79,Reverb,74,Pitch-Shift,236,Pop,105,Pitch-Shift,78,Harmony,74,Pop,35,DJ,87,Delay,78,Bubble,179,Harmony,131,Delay,114,DJ,108,Reverb,43,Delay,100,DJ,64
+Whisper,117,Retune,78,DJ,146,Reverb,82,Whisper,69,Reverb,55,Reverb,57,Pitch-Shift,101,Harmony,81,DJ,130,DJ,80,Pop,65,Piano,72,Pitch-Shift,62,Whisper,82,Harmony,80
+Harmony,123,Piano,123,Piano,171,Retune,108,Delay,712,DJ,93,DJ,65,Harmony,56,Whisper,85,Reverb,466,Retune,127,Pitch-Shift,67,Pop,100,Harmony,64,DJ,96,Delay,114
+No Feedback,164,No Feedback,433,No Feedback,284,No Feedback,187,No Feedback,291,No Feedback,521,No Feedback,144,No Feedback,260,No Feedback,281,No Feedback,508,No Feedback,274,No Feedback,216,No Feedback,278,No Feedback,163,No Feedback,104,No Feedback,471
